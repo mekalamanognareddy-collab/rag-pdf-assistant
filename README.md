@@ -42,7 +42,6 @@ streamlit run app.py
 
 ## Future Improvements
 
-* Multi-PDF support
 * Chat history
 * Source citation display
 * Cloud deployment
